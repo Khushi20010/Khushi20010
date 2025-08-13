@@ -1,10 +1,17 @@
-# Hi there, I'm Anushka  👋
+# Hi there, I'm Anushka Yadav 👋  
+🎓 B.Tech in Electronics & Communication Engineering (2022–2026)  
+🏀 Girls' Basketball Captain | 💻 Aspiring Software & Embedded Systems Engineer  
+🚀 Passionate about DSA, CAE Tools (ANSYS, HyperWorks), and Problem-Solving
 
-## 💡 About Me
-🎓 B.Tech in Electronics and Communication Engineering (2022–2026)  
-🏀 Girls' Basketball Captain, BIET Jhansi  
-🔧 Interested in FEM, FEA, and simulation tools (ANSYS, HyperWorks)  
-🌱 Learning DSA, Core CS concepts, and Full-Stack development  
+
+
+## 🛠 Skills & Tools
+- **Languages:** C++, Python, MATLAB  
+- **Core Concepts:** Data Structures & Algorithms, FEM, FEA, CAE  
+- **Tools & Software:** ANSYS, HyperWorks, Git, VS Code  
+- **Others:** Embedded Systems, IoT Projects
+
+
 
 
 
@@ -13,6 +20,29 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
+
+## 🚀 Featured Projects
+- [**DSA Searching & Sorting**](https://github.com/Khushi20010/DSA-SEARCHING-AND-SORTING) – Implementations of common searching & sorting algorithms in C++
+- [**MATLAB Antenna Simulation**](#) – Simulated and analyzed antenna performance using MATLAB
+- [**Embedded System for Power Monitoring**](#) – IoT-based system to monitor energy usage
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khushi20010&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Khushi20010?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Khushi20010?style=social)
+
+
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/khushi-yadav-270469280/)  
+[![Email](https://img.shields.io/badge/Email-khushiyadav@gmail.com-red?logo=gmail)](mailto:khushiyadav@gmail.com)
+
+
 
 
 
@@ -26,9 +56,4 @@
 ![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi20010&theme=tokyo-night)
 
 
----
-
-## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/anushka-y-5bb82b239/)
-[![Email](anushkayadav382@gmail.com)
 
