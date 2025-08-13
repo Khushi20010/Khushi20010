@@ -39,8 +39,8 @@
 
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/khushi-yadav-270469280/)  
-[![Email](https://img.shields.io/badge/Email-khushiyadav@gmail.com-red?logo=gmail)](mailto:khushiyadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-y-5bb82b239/)  
+[![Email](https://img.shields.io/badge/Email-khushiyadav@gmail.com-red?logo=gmail)](anushkayadav382@gmail.com)
 
 
 
