@@ -1,15 +1,57 @@
-# Hi there, I'm Anushka Yadav 👋  
-🎓 B.Tech in Electronics & Communication Engineering (2022–2026)  
-🏀 Girls' Basketball Captain | 💻 Aspiring Software & Embedded Systems Engineer  
-🚀 Passionate about DSA, CAE Tools (ANSYS, HyperWorks), and Problem-Solving
+👋 Hi, I'm Anushka Yadav  
+
+🎓 **B.Tech in Electronics & Communication Engineering (2022–2026)**  
+🏀 Girls' Basketball Captain at BIET Jhansi  
+💡 Passionate about Embedded Systems, CAE Tools (ANSYS, HyperWorks), DSA, and IoT Projects  
 
 
 
-## 🛠 Skills & Tools
-- **Languages:** C++, Python, MATLAB  
-- **Core Concepts:** Data Structures & Algorithms, FEM, FEA, CAE  
-- **Tools & Software:** ANSYS, HyperWorks, Git, VS Code  
-- **Others:** Embedded Systems, IoT Projects
+📌 About Me
+I’m an enthusiastic engineering student with a strong interest in blending **core electronics knowledge** with **software skills**.  
+I enjoy solving problems, learning new tools, and working on both hardware and software projects.  
+Outside academics, you’ll find me on the basketball court, leading my team and building team spirit.
+
+
+
+🛠 Skills
+- **Programming:** C++, Python, MATLAB  
+- **DSA & Problem-Solving:** Searching, Sorting, Recursion, Bit Manipulation  
+- **Engineering Tools:** ANSYS, HyperWorks, MATLAB Simulink  
+- **Embedded Systems & IoT:** Arduino, Sensors, Power Monitoring  
+- **Web Development:** HTML, CSS, JavaScript, Basic React  
+- **Soft Skills:** Leadership, Communication, Team Management  
+
+
+
+## 🚀 Projects
+### 🔹 [Portfolio Website](your-portfolio-link)
+Personal portfolio showcasing my skills, projects, and contact details.  
+**Tech:** HTML, CSS, JavaScript  
+
+### 🔹 [IoT-Based Power Monitoring System](repo-link)
+Designed and implemented an IoT system to monitor household energy usage in real-time.  
+**Tech:** Arduino, Sensors, IoT Platform  
+
+### 🔹 [MATLAB Antenna Simulation](repo-link)
+Simulated and analyzed antenna performance using MATLAB.  
+**Tech:** MATLAB, Signal Processing  
+
+### 🔹 [Weather App](repo-link)
+Real-time weather app fetching API data and displaying forecasts.  
+**Tech:** JavaScript, OpenWeather API  
+
+
+ 🎓 Education / Interests
+- **B.Tech, Electronics & Communication Engineering** – BIET Jhansi (2022–2026)  
+- **Interests:** Basketball 🏀, Simulation, IoT, Problem-Solving, CAD/CAE Tools
+
+## 📬 Contact
+- **Email:** anushkayadav382@gmail.com 
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/anushka-y-5bb82b239/)  
+- **GitHub:** [github.com/Khushi20010](https://github.com/Khushi20010)  
+
+*“Engineering my future in the classroom, building my game on the court.”*  
+
 
 
 
@@ -24,10 +66,6 @@
 
 
 
-## 🚀 Featured Projects
-- [**DSA Searching & Sorting**](https://github.com/Khushi20010/DSA-SEARCHING-AND-SORTING) – Implementations of common searching & sorting algorithms in C++
-- [**MATLAB Antenna Simulation**](#) – Simulated and analyzed antenna performance using MATLAB
-- [**Embedded System for Power Monitoring**](#) – IoT-based system to monitor energy usage
 
 
 
