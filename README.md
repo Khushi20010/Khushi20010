@@ -1,4 +1,4 @@
-👋 Hi, I'm Anushka Yadav  
+🚀 Anushka Yadav | ECE Student | Data Structures & Algorithms Enthusiast
 
 🎓 **B.Tech in Electronics & Communication Engineering (2022–2026)**  
 🏀 Girls' Basketball Captain at BIET Jhansi  
@@ -76,9 +76,6 @@ Real-time weather app fetching API data and displaying forecasts.
 
 
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-y-5bb82b239/)  
-[![Email](https://img.shields.io/badge/Email-khushiyadav@gmail.com-red?logo=gmail)](anushkayadav382@gmail.com)
 
 
 
