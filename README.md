@@ -1,25 +1,26 @@
-🚀 Anushka Yadav | ECE Student | Data Structures & Algorithms Enthusiast
+🚀 Anushka Yadav | Aspiring Frontend Developer | Coding Enthusiast
 
-🎓 **B.Tech in Electronics & Communication Engineering (2022–2026)**  
-🏀 Girls' Basketball Captain at BIET Jhansi  
-💡 Passionate about Embedded Systems, CAE Tools (ANSYS, HyperWorks), DSA, and IoT Projects  
-
-
+🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
+💻 Passionate about Web Development, JavaScript, React, DSA, and Problem-Solving
 
 📌 About Me
-I’m an enthusiastic engineering student with a strong interest in blending **core electronics knowledge** with **software skills**.  
-I enjoy solving problems, learning new tools, and working on both hardware and software projects.  
-Outside academics, you’ll find me on the basketball court, leading my team and building team spirit.
 
+I’m a final-year engineering student passionate about building clean, responsive, and user-friendly web applications.
+I enjoy solving challenging coding problems, learning new technologies, and creating projects that combine logic, design, and interactivity.
 
+Outside academics, I focus on coding practice and developing projects that strengthen my software skills.
 
 🛠 Skills
-- **Programming:** C++, Python, MATLAB  
-- **DSA & Problem-Solving:** Searching, Sorting, Recursion, Bit Manipulation  
-- **Engineering Tools:** ANSYS, HyperWorks, MATLAB Simulink  
-- **Embedded Systems & IoT:** Arduino, Sensors, Power Monitoring  
-- **Web Development:** HTML, CSS, JavaScript, Basic React  
-- **Soft Skills:** Leadership, Communication, Team Management  
+
+Programming: C++, Python, JavaScript
+
+Frontend Development: HTML, CSS, JavaScript, React.js
+
+Data Structures & Algorithms: Searching, Sorting, Recursion, Bit Manipulation
+
+Web & Software Tools: Git, VS Code, Chrome DevTools
+
+Soft Skills: Teamwork, Communication, Problem-Solving
 
 
 
