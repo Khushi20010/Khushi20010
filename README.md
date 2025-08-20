@@ -2,24 +2,20 @@
 
 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
 💻 Passionate about Web Development, JavaScript, React, DSA, and Problem-Solving
+🏀 Girls’ Basketball Captain at BIET Jhansi – Leadership & Team Management
 
 📌 About Me
 
 I’m a final-year engineering student passionate about building clean, responsive, and user-friendly web applications.
 I enjoy solving challenging coding problems, learning new technologies, and creating projects that combine logic, design, and interactivity.
-
 Outside academics, I focus on coding practice and developing projects that strengthen my software skills.
+Outside academics, I lead my college basketball team as Girls’ Basketball Captain, which has strengthened my teamwork, leadership, and discipline skills
 
 🛠 Skills
-
 Programming: C++, Python, JavaScript
-
 Frontend Development: HTML, CSS, JavaScript, React.js
-
 Data Structures & Algorithms: Searching, Sorting, Recursion, Bit Manipulation
-
 Web & Software Tools: Git, VS Code, Chrome DevTools
-
 Soft Skills: Teamwork, Communication, Problem-Solving
 
 
@@ -29,14 +25,6 @@ Soft Skills: Teamwork, Communication, Problem-Solving
 Personal portfolio showcasing my skills, projects, and contact details.  
 **Tech:** HTML, CSS, JavaScript  
 
-### 🔹 [IoT-Based Power Monitoring System](repo-link)
-Designed and implemented an IoT system to monitor household energy usage in real-time.  
-**Tech:** Arduino, Sensors, IoT Platform  
-
-### 🔹 [MATLAB Antenna Simulation](repo-link)
-Simulated and analyzed antenna performance using MATLAB.  
-**Tech:** MATLAB, Signal Processing  
-
 ### 🔹 [Weather App](repo-link)
 Real-time weather app fetching API data and displaying forecasts.  
 **Tech:** JavaScript, OpenWeather API  
@@ -44,7 +32,7 @@ Real-time weather app fetching API data and displaying forecasts.
 
  🎓 Education / Interests
 - **B.Tech, Electronics & Communication Engineering** – BIET Jhansi (2022–2026)  
-- **Interests:** Basketball 🏀, Simulation, IoT, Problem-Solving, CAD/CAE Tools
+- **Interests:** Basketball 🏀, Simulation,  Problem-Solving
 
 ## 📬 Contact
 - **Email:** anushkayadav382@gmail.com 
@@ -60,7 +48,7 @@ Real-time weather app fetching API data and displaying forecasts.
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
