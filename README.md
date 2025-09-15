@@ -8,7 +8,7 @@
 
 I’m a final-year engineering student passionate about building clean, responsive, and user-friendly web applications.
 I enjoy solving challenging coding problems, learning new technologies, and creating projects that combine logic, design, and interactivity.
-Outside academics, I focus on coding practice and developing projects that strengthen my software skills.
+
 Outside academics, I lead my college basketball team as Girls’ Basketball Captain, which has strengthened my teamwork, leadership, and discipline skills
 
 🛠 Skills
